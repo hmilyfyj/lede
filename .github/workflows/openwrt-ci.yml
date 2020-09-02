@@ -178,6 +178,7 @@ jobs:
           CONFIG_PACKAGE_luci-theme-atmaterial=y
           CONFIG_PACKAGE_luci-theme-opentomcat=y
           CONFIG_PACKAGE_luci-theme-opentomato=y
+          CONFIG_PACKAGE_luci-theme-infinityfreedom=y
           
           EOF
 
